@@ -155,4 +155,4 @@ Users can filter the dashboard using:
 Add your Power BI dashboard screenshot inside the `images` folder and update the filename below.
 
 ```markdown
-![Nykaa Product Analytics Dashboard](images/dashboard.png)
+![Nykaa Product Analytics Dashboard]("C:\Users\VELIKINTI AKSHAYA\OneDrive\Pictures\Screenshots\Nykaa Screenshot.png")
